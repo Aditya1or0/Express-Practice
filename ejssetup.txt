@@ -1,0 +1,12 @@
+ejs setup process
+1) ejs install
+npm i ejs
+2) configure ejs
+ app.set("view engine","ejs)
+ 3) make views name folder
+ 4) make ejs file in it
+ 5) render in place of send
+
+ //Template engines====>>>>> are used when you want to rapidly build web applications that are split into different components. Templates also enable fast rendering of the server-side data that needs to be passed to the application.
+
+For example, you might want to have components such as body, navigation, footer, dashboard, etc.

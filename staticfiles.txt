@@ -1,0 +1,5 @@
+setup process
+1) create a folder alled public
+2) create three folder inside it images,stylesheet,javascript
+3) configure the epress static in script.js file
+4) understand the path
